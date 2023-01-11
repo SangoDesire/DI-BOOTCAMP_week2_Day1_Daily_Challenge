@@ -14,4 +14,8 @@ fruits.push('Kiwi');
 fruits.splice(0,1);
 
 /*5-Sort the array in reverse order. (Not alphabetical... i.e. [‘a’, ‘c’, ‘b’] becomes [‘b’, ‘c’, ‘a’])*/
+<<<<<<< HEAD
 fruits.reverse();
+=======
+fruits.reverse();
+>>>>>>> cb479d3edfb07cf6afa1645ac3f79315c2631374
